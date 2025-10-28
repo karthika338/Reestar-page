@@ -30,7 +30,7 @@ Explore the Reestar page layout and design
 
 HOW TO VIE
 
-(Add a screenshot here if you want to show how the website looks)
+https://karthika338.github.io/Reestar-page/
 
 👩‍💻 Author
 
